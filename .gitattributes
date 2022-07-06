@@ -1,1 +1,2 @@
 test123 filter=lfs diff=lfs merge=lfs -text lockable
+test123/index.html filter=lfs diff=lfs merge=lfs -text lockable
